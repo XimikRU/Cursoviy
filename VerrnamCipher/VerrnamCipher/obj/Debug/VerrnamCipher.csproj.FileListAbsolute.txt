@@ -1,0 +1,9 @@
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\bin\Debug\VerrnamCipher.exe.config
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\bin\Debug\VerrnamCipher.exe
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\bin\Debug\VerrnamCipher.pdb
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\obj\Debug\VerrnamCipher.csprojResolveAssemblyReference.cache
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\obj\Debug\VerrnamCipher.Properties.Resources.resources
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\obj\Debug\VerrnamCipher.csproj.GenerateResource.Cache
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\obj\Debug\VerrnamCipher.exe
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\obj\Debug\VerrnamCipher.pdb
+X:\Sharp Projects\VerrnamCipher\VerrnamCipher\obj\Debug\VerrnamCipher.FormMain.resources

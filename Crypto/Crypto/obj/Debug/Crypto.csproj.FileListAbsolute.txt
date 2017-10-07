@@ -1,0 +1,6 @@
+X:\Sharp Projects\_Cursovyi\Crypto\Crypto\bin\Debug\Crypto.exe.config
+X:\Sharp Projects\_Cursovyi\Crypto\Crypto\bin\Debug\Crypto.exe
+X:\Sharp Projects\_Cursovyi\Crypto\Crypto\bin\Debug\Crypto.pdb
+X:\Sharp Projects\_Cursovyi\Crypto\Crypto\obj\Debug\Crypto.csprojResolveAssemblyReference.cache
+X:\Sharp Projects\_Cursovyi\Crypto\Crypto\obj\Debug\Crypto.exe
+X:\Sharp Projects\_Cursovyi\Crypto\Crypto\obj\Debug\Crypto.pdb

@@ -1,0 +1,9 @@
+X:\Sharp Projects\Rifma\Rifma\bin\Debug\Rifma.exe.config
+X:\Sharp Projects\Rifma\Rifma\bin\Debug\Rifma.exe
+X:\Sharp Projects\Rifma\Rifma\bin\Debug\Rifma.pdb
+X:\Sharp Projects\Rifma\Rifma\obj\Debug\Rifma.csprojResolveAssemblyReference.cache
+X:\Sharp Projects\Rifma\Rifma\obj\Debug\Rifma.Properties.Resources.resources
+X:\Sharp Projects\Rifma\Rifma\obj\Debug\Rifma.csproj.GenerateResource.Cache
+X:\Sharp Projects\Rifma\Rifma\obj\Debug\Rifma.exe
+X:\Sharp Projects\Rifma\Rifma\obj\Debug\Rifma.pdb
+X:\Sharp Projects\Rifma\Rifma\obj\Debug\Rifma.Form1.resources

@@ -1,0 +1,17 @@
+X:\Sharp Projects\Hotels\Hotels\bin\Debug\Hotels.exe.config
+X:\Sharp Projects\Hotels\Hotels\bin\Debug\Hotels.exe
+X:\Sharp Projects\Hotels\Hotels\bin\Debug\Hotels.pdb
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.csprojResolveAssemblyReference.cache
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.Form1.resources
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.Properties.Resources.resources
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.csproj.GenerateResource.Cache
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.exe
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.pdb
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.NewHotelForm.resources
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.FormBooking.resources
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.FormFreeing.resources
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.FormConfirm.resources
+X:\Sharp Projects\Hotels\Hotels\bin\Debug\Hotels.exe.manifest
+X:\Sharp Projects\Hotels\Hotels\bin\Debug\Hotels.application
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.exe.manifest
+X:\Sharp Projects\Hotels\Hotels\obj\Debug\Hotels.application

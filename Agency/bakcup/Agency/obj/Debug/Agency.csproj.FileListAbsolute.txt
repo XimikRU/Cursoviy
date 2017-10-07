@@ -1,0 +1,9 @@
+X:\Sharp Projects\Agency\Agency\bin\Debug\Agency.exe.config
+X:\Sharp Projects\Agency\Agency\bin\Debug\Agency.exe
+X:\Sharp Projects\Agency\Agency\bin\Debug\Agency.pdb
+X:\Sharp Projects\Agency\Agency\obj\Debug\Agency.csprojResolveAssemblyReference.cache
+X:\Sharp Projects\Agency\Agency\obj\Debug\Agency.Properties.Resources.resources
+X:\Sharp Projects\Agency\Agency\obj\Debug\Agency.csproj.GenerateResource.Cache
+X:\Sharp Projects\Agency\Agency\obj\Debug\Agency.exe
+X:\Sharp Projects\Agency\Agency\obj\Debug\Agency.pdb
+X:\Sharp Projects\Agency\Agency\obj\Debug\Agency.FormMain.resources
